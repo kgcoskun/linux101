@@ -7,7 +7,7 @@ Başlık 102: Açık/Özgür Kaynak Kod yazılımlar ile ilgili ne biliyoruz? Ge
 
 Başlık 103: Linux Nedir? Peki ya GNU/Linux? GNU/Linux Dağıtımları nelerdir? TUX.
 
-Başlık 104: Beta, Release, LTS, Stable, Major-Minor Versiyon ve Patch Kavramları. Linux Kurulumu ve Kurulum Tipleri. Sunucu ve Masaüstü Kurulumları Arasındaki Farklar? Nelere Dikkat Edilmeli? Sunucu ve Masaüstü için Hangi Dağıtım Ne için Daha Uygun? Linux Dosya Sistemleri, Dosya Sistemi Hiyerarşi Standardı (FHS).
+Başlık 104: Beta, Release, LTS, Stable, Major-Minor Versiyon ve Patch Kavramları. Linux Kurulumu ve Kurulum Tipleri. Açılış Yükleyicisi. Sunucu ve Masaüstü Kurulumları Arasındaki Farklar? Nelere Dikkat Edilmeli? Sunucu ve Masaüstü için Hangi Dağıtım Ne için Daha Uygun? Linux Dosya Sistemleri, Dosya Sistemi Hiyerarşi Standardı (FHS).
 
 Başlık 105: GUI mi yoksa TUI mi? Xserver Virtual Terminal.
 
