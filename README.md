@@ -13,7 +13,7 @@ Başlık 105: GUI mi yoksa TUI mi?
 
 Başlık 106: Paket Yönetim Sistemleri ve Repolar. 
 
-Başlık 107: Hangi Kabuk? Ençok Kullanılan Komutlar. Yardım Alma Standart Girdi-Çıktı-Hata? Regex. Betik Yazımı. Human Readable?
+Başlık 107: Hangi Kabuk? Ençok Kullanılan Komutlar. Yardım Alma. Standart Girdi-Çıktı-Hata? Regex. Betik Yazımı. Human Readable?
 
 Başlık 107.1: Kullanıcı ve Grup Yönetimi. Dosya ve Dizin Hakları. Recursive. İşlemler ve Zamanlanmış Görevler. Performans İzleme. Ağ Yönetimi.
 
