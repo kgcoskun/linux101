@@ -1,5 +1,5 @@
 # Linux 101 Konu Başlıkları;
-<hr>
+
 
 Başlık 101: İlkdefa Duyacaklarınız! Linux' a Başlama Cüretinde Bulunmuş veya Merak Aşamasında olan FANİLERE Tavsiyeler :) Olacaklar için Birkaç Uyarı :) Contributor, Volunteer, Operator, Admin, Expert/Engineer, Senior, Geek, Guru, Master, DevOPS, SecOPS Kavramları.
 
