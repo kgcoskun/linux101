@@ -15,7 +15,7 @@ Başlık 106: Paket Yönetim Sistemleri ve Repolar.
 
 Başlık 107: Hangi Kabuk? Terminal, Konsol. Ençok Kullanılan Komutlar. Yardım Alma. Standart Girdi-Çıktı-Hata? Regex. Betik Yazımı. Human Readable?
 
-Başlık 107.1: Kullanıcı ve Grup Yönetimi. Dosya ve Dizin Hakları. Recursive. İşlemler ve Zamanlanmış Görevler. Performans İzleme. Ağ Yönetimi.
+Başlık 107.1: Kullanıcı ve Grup Yönetimi. Su, Sudo. Dosya ve Dizin Hakları. Recursive. İşlemler ve Zamanlanmış Görevler. Performans İzleme. Ağ Yönetimi.
 
 Başlık 108: Editorler. Editörler ile Sık Yapılan İşlemler. Human Readable Tekrar. WYSIWYG.
 
